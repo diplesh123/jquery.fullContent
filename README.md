@@ -1,4 +1,5 @@
 # Jquery.fullContent
+Latest Version of jQuery 3.5.1
 
 ### What the plugin does
 
